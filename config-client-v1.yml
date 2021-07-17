@@ -4,4 +4,5 @@ server:
   
 #当前版本信息
 version:
-  message: 20190305发布第一个版本
+#   message: 20190305发布第一个版本
+  message: '{cipher}65e687d278f5a7885a83f643a406f99ab840c32fa1f30df715f5cdf94f2e4460d94811e1de07c2528b139e07c55b1909'
